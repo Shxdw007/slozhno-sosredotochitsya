@@ -16,7 +16,7 @@
 .header {
   padding: 0 20px;
   position: relative;
-  height: 768px;
+  height: 100vh;
   min-height: 668px;
   
 }
@@ -419,7 +419,7 @@
   padding: 282px 20px;
   position: relative;
   text-align: center;
-  height: 768px;
+  height: 100vh;
   min-height: 668px;
 }
 
