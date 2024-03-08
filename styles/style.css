@@ -16,7 +16,8 @@
 .header {
   padding: 0 20px;
   position: relative;
-  height: 0 100vh;
+  height: 768px;
+  min-height: 668px;
   
 }
 
@@ -418,7 +419,8 @@
   padding: 282px 20px;
   position: relative;
   text-align: center;
-  height: 0 100vh;
+  height: 768px;
+  min-height: 668px;
 }
 
 .footer__title {
